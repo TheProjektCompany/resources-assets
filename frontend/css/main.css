@@ -14014,7 +14014,7 @@ ul.sp-attachments > li a div{
 }
 
 .sp-bg-primary{
-  background-color: #d4d5d4;
+   background-color: var(--color-background-primary);
 }
 
 .sp-bg-primary-700{
