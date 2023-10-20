@@ -11136,7 +11136,7 @@ video {
 
 :root {
     --font-display: 'Inter', 'Lucida Sans Unicode', 'Lucida Grande', 'sans-serif';
-    --font-body: 'Inter', 'Arial', 'Helvetica', 'sans-serif';
+    --font-body: 'Roboto', 'Arial', 'Helvetica', 'sans-serif';
     --font-code: 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New', 'monospace';
     --font-icon: 'Font Awesome 5 Free';
 }
